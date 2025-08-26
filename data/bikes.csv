@@ -1,0 +1,4 @@
+name,phone,city,brand,model,year,cc,type,condition,price,mileage,description,created_at
+Dealer,03xx-xxxxxxx,Haripur,Honda,CG 125,2022,125,Commuter,Used,150000,8000,Well maintained bike,2025-08-14T12:00:00
+Dealer,03xx-xxxxxxx,Islamabad,Yamaha,YBR 125,2023,125,Sport,New,280000,0,Brand new showroom bike,2025-08-14T12:00:00
+Dealer,03xx-xxxxxxx,Peshawar,Suzuki,GS 150,2021,150,Commuter,Used,200000,12000,One owner, good condition,2025-08-14T12:00:00
