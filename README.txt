@@ -1,4 +1,5 @@
 # BikeBot-Offline 🏍️
+This project is a chatbot application built with Streamlit that helps users with bike buying, selling, and general information.
 
 ## How to Run
 1. Extract the zip file.
